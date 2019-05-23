@@ -1,6 +1,8 @@
 # Make your shoe class here!
 
 class Shoe
+  attr_
+  
   def initialize(brand)
     @brand
   end
@@ -12,5 +14,7 @@ class Shoe
   def brand
     @brand
   end
+  
+  def color=()
   
 end
