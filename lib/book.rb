@@ -10,9 +10,9 @@ class Book
   #   @title                # called upon when interested in its title property
   # end
   
-  def author=(author)     # setter: allows us to set instance variables 
-    @author = author      # giving our books an author 
-  end
+  # def author=(author)     # setter: allows us to set instance variables 
+  #   @author = author      # giving our books an author 
+  # end
   
   # def author              # if we want to access a property of our book, we need a getter
   #   @author               # Getters and Setters come in pairs
