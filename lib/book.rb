@@ -4,6 +4,7 @@ class Book
   end
   
   def title
+    @title                # called upon when interested in its title property
   end
   
 end
