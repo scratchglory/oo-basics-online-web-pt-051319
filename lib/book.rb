@@ -1,6 +1,6 @@
 class Book
-  attr_accessor :author, :page_count, :genre
-  attr_reader :title
+  attr_accessor :author, :page_count, :genre      # gives us a getter and a setterl creating bot name and name= methods
+  attr_reader :title                              # gives us a getter; creating a name method 
   
   def initialize(title)   # callback; doing some setup in
     @title = title
