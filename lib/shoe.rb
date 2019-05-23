@@ -7,11 +7,11 @@ class Shoe
     @brand
   end
   
-  def brand=(brand)
+  def brand=(brand)   #setter
     @brand = brand
   end
   
-  def brand
+  def brand           #getter
     @brand
   end
   
