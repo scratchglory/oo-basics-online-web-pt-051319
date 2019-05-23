@@ -3,9 +3,11 @@ class Book
     @title = title
   end
   
-  def title
+  def title               # getter
     @title                # called upon when interested in its title property
   end
+  
+  def 
   
 end
 
